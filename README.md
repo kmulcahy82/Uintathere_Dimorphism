@@ -1,2 +1,2 @@
 # Uintathere_Dimorphism
-Code used to test the classical paleontological hypothesis that uintatheres, mammals belonging to the extinct order, Dinocerata, exhibit strong sexual dimorphism. 
+Code used in the paper "Linear morphometrics fail to support strong sexual dimorphism in Uintatherium anceps." These analyses test the classical paleontological hypothesis that uintatheres, mammals belonging to the extinct order, Dinocerata, exhibit strong sexual dimorphism. 
