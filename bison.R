@@ -1,4 +1,4 @@
-setwd("/Users/kevin/Desktop/plosRound3Files/CodeAndData/")
+setwd("")
 
 library(dplyr)
 library(diptest)
